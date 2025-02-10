@@ -41,17 +41,17 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 4. Configurar Variáveis de Ambiente
-Crie um arquivo `.env` e adicione suas credenciais:
+### 4. Atualizar as variáveis no código
+Atualize as variáveis no código
 ```ini
-API_KEY=seu_token_da_api
-DB_USER=seu_usuario
-DB_PASSWORD=sua_senha
-DB_HOST=seu_host
-DB_NAME=weatherapi
+API KEY
+USER 
+DB PASSWORD
+DB HOST
+DB NAME
 ```
 
-### 5. Executar o Script
+### 4. Executar o Script
 ```bash
 python main.py
 ```
