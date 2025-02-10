@@ -63,7 +63,6 @@ WeatherETL/
 │── main.py                 # Script principal
 │── requirements.txt        # Dependências do projeto
 │── README.md               # Documentação
-└── .env                    # Configuração das variáveis de ambiente (não incluído no repositório)
 ```
 
 ## Melhorias Futuras
