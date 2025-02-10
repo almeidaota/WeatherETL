@@ -66,12 +66,13 @@ WeatherETL/
 ```
 
 ## Melhorias Futuras
+- Comparação da previsão de chuva com os dados reais
 - Implementar logging estruturado
+- Envio de email em caso de erro
+- Soltar informações de comparação numa API
 - Adicionar suporte a outros bancos de dados
 - Criar um dashboard para visualização dos dados
 
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Autor
 Desenvolvido por **Otávio Almeida**. Entre em contato via [GitHub](https://github.com/almeidaota).
