@@ -1,2 +1,7 @@
 *.ipynb
+.env
+.venv
 senhas.txt
+__pycache__/*
+*.pyc
+
